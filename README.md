@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">- Add Hardcoded Data — Insert predefined student or doctor entries.<br><br>- Add From Request Body — Insert new data via request body.<br><br>- Add From Query Parameters — Insert new data via URL query parameters.<br><br>- Update Data — Modify existing student or doctor information.<br><br>- Delete Data — Remove a student or doctor record.<br><br>- Fetch Specific List — Retrieve either the students or doctors list.<br><br>- Fetch All Data — Retrieve all data from both lists.</p>
+<p align="left">- <b>Add Hardcoded Data</b> — Insert predefined student or doctor entries.<br><br>- <b>Add From Request Body</b> — Insert new data via request body.<br><br>- <b>Add From Query Parameters</b> — Insert new data via URL query parameters.<br><br>- <b>Update Data</b> — Modify existing student or doctor information.<br><br>- <b>Delete Data</b> — Remove a student or doctor record.<br><br>- <b>Fetch Specific List</b> — Retrieve either the students or doctors list.<br><br>- <b>Fetch All Data</b> — Retrieve all data from both lists.</p>
 
 ###
 
@@ -32,6 +32,6 @@
 
 ###
 
-<p align="left">- Ahmed Elshazly<br><br>- Yasser Amr<br><br>- Raneem Rakha<br><br>- Doaa Hassan<br><br>- Ehab El-Sayed<br><br>- El-Badry El-Sayed</p>
+<p align="left"><b>- Ahmed Elshazly<br><br>- Yasser Amr<br><br>- Raneem Rakha<br><br>- Doaa Hassan<br><br>- Ehab El-Sayed<br><br>- El-Badry El-Sayed</b></p>
 
 ###
